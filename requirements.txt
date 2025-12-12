@@ -3,7 +3,7 @@ cycler==0.12.1
 fonttools==4.55.8
 kiwisolver==1.4.8
 matplotlib==3.10.0
-numpy==2.2.2
+numpy==1.24.3  # Versi numpy yang lebih kompatibel
 packaging==24.2
 pandas==2.2.3
 pillow==11.1.0
